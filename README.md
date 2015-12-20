@@ -19,4 +19,4 @@ ADD this code:
 
 <a href="<?php echo $product['href']; ?>" data-toggle="tooltip" title="View product" class="btn btn-primary" target="_blank" ><i class="fa fa-eye"></i>
 
-AND WORK :)
+AND WORK
