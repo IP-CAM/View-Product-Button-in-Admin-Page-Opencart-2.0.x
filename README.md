@@ -13,7 +13,7 @@ $url = new Url(HTTP_CATALOG, $this->config->get('config_secure') ? HTTP_CATALOG 
 
 and in /admin/view/template/catalog/product_list.tpl:
 AFTER:
-<td class="text-right"><a href="<?php echo $product['edit']; ?>" data-toggle="tooltip" title="<?php echo $button_edit; ?>" class="btn btn-primary"><i class="fa fa-pencil"></i></a>
+```<td class="text-right"><a href="<?php echo $product['edit']; ?>" data-toggle="tooltip" title="<?php echo $button_edit; ?>" class="btn btn-primary"><i class="fa fa-pencil"></i></a>```
 
 ADD this code:
 
