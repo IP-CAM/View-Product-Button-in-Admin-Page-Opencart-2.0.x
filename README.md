@@ -1,5 +1,5 @@
-# view-product-buton-in-admin-page
-Simple view product buton in admin page for OpenCart 2.0
+# view-product-button-in-admin-page
+Simple view product button in admin page for OpenCart 2.0
 
 View demo image - http://radidesign.net/wp-content/uploads/2015/12/view-button.jpg
 
